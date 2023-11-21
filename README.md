@@ -1,4 +1,6 @@
-Hi 👋 My name is Altan ======================  IOS Developer -------------  📱 Swift'in büyülü dünyasında gezinen bir iOS sihirbazı 🚀 Kullanıcıları sıkılmadan eğlendirmek için kodlarla dans eden bir geliştirici ✨ Uygulamalarım, sadece dokunmatik değil, aynı zamanda biraz da sihirli! 🎩 Mobil dünyasına yaratıcılığı ve espriyi bir araya getiren bir dokunuş. 📖 Swift'in gizemli dünyasında Vapor ve Kitura'yla yeni tanışan bir öğrenciyim. Backend'e adım atmış durumdayım ve GitHub'da öğrenme serüvenimi paylaşıyorum. 🌱 #Swift #BackendLearning"  * 🌍  I'm based in Turkey * ✉️  You can contact me at [alt4ns@icloud.com](mailto:alt4ns@icloud.com) * 🚀  I'm currently working on [Bubbles](http://olixhub.tech) * 🧠  I'm learning Vapor, Kitura
+Hi 👋 My name is Altan
+IOS Developer
+📱 Swift'in büyülü dünyasında gezinen bir iOS sihirbazı 🚀 Kullanıcıları sıkılmadan eğlendirmek için kodlarla dans eden bir geliştirici ✨ Uygulamalarım, sadece dokunmatik değil, aynı zamanda biraz da sihirli! 🎩 Mobil dünyasına yaratıcılığı ve espriyi bir araya getiren bir dokunuş.   📖 Swift'in gizemli dünyasında Vapor ve Kitura'yla yeni tanışan bir öğrenciyim. Backend'e adım atmış durumdayım ve GitHub'da öğrenme serüvenimi paylaşıyorum. 🌱 #Swift #BackendLearning"
 
 ### Skills  
 
